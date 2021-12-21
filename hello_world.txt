@@ -1,0 +1,2 @@
+Just adding some text while I get familiar with Git
+Lets add somemore text
